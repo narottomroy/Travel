@@ -1,0 +1,12 @@
+.min-section{
+    background-image: url('/photo/bg.png');
+    background-size: cover;
+    height: 500px;
+}
+.subscribs-img{
+    background:url('/photo/sub-bg.png');
+    background-size: cover;
+    background-position: center center;
+    height: 350px;
+    width: auto;
+}
